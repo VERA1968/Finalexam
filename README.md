@@ -19,4 +19,3 @@ shortStrings = temp;*)
 
 
 
-![АЛГОРИТМ] (Задача.drawio.png)
